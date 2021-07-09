@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+
+
+.PAGWEB1 {
+    text-align: center;
+    display: block;
+    width: 100%;
+    top: 100px;
+    background-color: rgb(185, 29, 29);
+    color: black;
+}
+
+
+
+.featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  
+  /* Thin out the marketing headings */
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    /* rtl:remove */
+    letter-spacing: -.05rem;
+    color: white;
+  }
+
+  @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
+
+p {
+    color:white;
+}
+
+.PAGWEB2 img {
+    width: 500px;
+    height: 300px;
+}
+
+#Index,
+.webpage2,
+.Index,
+#webpage {
+    padding-left: 1350px;
+}
+
+.partfinal {
+    text-align: end;
+}
